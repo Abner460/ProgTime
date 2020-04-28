@@ -1,0 +1,7 @@
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\bin\Debug\ProgJogador.exe.config
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\bin\Debug\ProgJogador.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\bin\Debug\ProgJogador.pdb
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\obj\Debug\ProgJogador.csprojAssemblyReference.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\obj\Debug\ProgJogador.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\obj\Debug\ProgJogador.exe
+C:\Users\abner\OneDrive\Documentos\Visual Studio 2017\Projects\ProgJogador\ProgJogador\obj\Debug\ProgJogador.pdb
